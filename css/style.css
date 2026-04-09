@@ -1,0 +1,19 @@
+html,body{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    display: flex;
+    background-color: aquamarine;
+    justify-content: space-between;
+    padding: 10px 20px;
+}
+
+.navbar{
+    display: flex;
+    gap: 25px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
